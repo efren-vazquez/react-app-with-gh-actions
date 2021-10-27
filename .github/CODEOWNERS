@@ -1,3 +1,5 @@
 * @efrensho
 *.js @efrensho
 /public/ @efrensho
+
+*.yml @efrensho
